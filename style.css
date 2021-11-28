@@ -13,6 +13,7 @@ body{
     padding-right: 2%;
     text-align: center;
     margin: 10px 20% 10px 20%;
+    padding: 10px;
 }
 #menu{
     text-align: justify;
@@ -24,6 +25,26 @@ a{
 ul{
   
 }
+
 #logo{
     size: 30px;
+}
+#xlogo{
+    float: right;
+    background-color: gray;
+}
+#telo1{
+    background-color: white;
+    height: 300px;
+}
+#telo2{
+    background-color: white;
+    height: 300px;
+}
+
+#store{
+    margin-top: 10px;
+}
+#linkkep{
+    float: right;
 }
