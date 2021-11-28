@@ -1,7 +1,16 @@
 body{
-    background-color: whitesmoke;
+    background-image: url(abstract-background-abstrakt-hatterkep-2-2644744026.jpg);
 }
 .info{
     text-align: justify;
 
+}
+.hatter{
+    background-color: skyblue;
+    border-radius: 10px;
+    border: darkslategray solid 2px;
+    padding-left: 2%;
+    padding-right: 2%;
+    text-align: center;
+    margin: 10px 20% 10px 20%;
 }
