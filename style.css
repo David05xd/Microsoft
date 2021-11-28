@@ -1,5 +1,5 @@
 body{
-    background-image: url(abstract-background-abstrakt-hatterkep-2-2644744026.jpg);
+    background-image: url(képek/abstract-background-abstrakt-hatterkep-2-2644744026.jpg);
 }
 .info{
     text-align: justify;
@@ -13,4 +13,17 @@ body{
     padding-right: 2%;
     text-align: center;
     margin: 10px 20% 10px 20%;
+}
+#menu{
+    text-align: justify;
+}
+a{
+    text-decoration: none;
+    color: blue;
+}
+ul{
+  
+}
+#logo{
+    size: 30px;
 }
