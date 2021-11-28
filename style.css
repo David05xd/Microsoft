@@ -1,5 +1,6 @@
 body{
     background-image: url(képek/abstract-background-abstrakt-hatterkep-2-2644744026.jpg);
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
 }
 .info{
     text-align: justify;
@@ -31,7 +32,9 @@ ul{
 }
 #xlogo{
     float: right;
-    background-color: gray;
+    background-color: white;
+    border: white 5px solid;
+    border-radius: 5px;
 }
 #telo1{
     background-color: white;
@@ -47,4 +50,19 @@ ul{
 }
 #linkkep{
     float: right;
+}
+img{
+    float: right;
+    border-radius: 10px;
+    border: midnightblue 4px solid;
+    
+}
+#medal{
+    float: left;
+}
+.termek{
+    float: none;
+}
+#alapitotab{
+    text-align: right;
 }
